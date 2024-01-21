@@ -21,7 +21,7 @@ I'd love for you to join me on my growth-oriented journey in this profession ! a
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/baharak-eslami-985364230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baharak-eslami-985364230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baharak-eslami-985364230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baharak-eslami" height="30" width="40" /></a>
 <a href="https://instagram.com/baharak_eslami_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baharak_eslami_web" height="30" width="40" /></a>
 </p>
 
