@@ -1,7 +1,6 @@
 <img src="https://drive.google.com/uc?id=1z9Iwjr5dN8xjG7j-XToF9kI95SLKh_i9&export=view" alt="img profile"  width="100%"  height="auto"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharak-eslamiii&label=Profile%20views&color=0e75b6&style=flat" alt="baharak-eslamiii" /> </p>
 <h2 align="left">Hi , I'm Baharak Eslami 👋</h2>
-how can to create like this table summery that when click it ,it shows all of details about it,in markdown?<!-- TABLE OF CONTENTS -->
 
 I am a front-end developer and full-time adventure seeker.Every day I eagerly try to learn something new in this field and develop my skills and knowledge.  
 I'd love for you to join me on my growth-oriented journey in this profession ! and be sure to check out my GitHub profile!<br> Many thanks everyone! 🙏❤️
