@@ -5,7 +5,7 @@
  
 I am a front-end developer and full-time adventure seeker.Every day I eagerly try to learn something new in this field and develop my skills and knowledge.  
 I'd love for you to join me on my growth-oriented journey in this profession ! and be sure to check out my GitHub profile!<br> Many thanks everyone! 🙏❤️
-[conect me](#connect)
+
 
 - 🔭 I’m currently working on **something cool 😉.**
 
